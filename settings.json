@@ -1,0 +1,17 @@
+{
+    "workbench.colorCustomizations": {
+            "titleBar.activeBackground": "#6c23a8d5";
+            "activityBar.background": "#6c23a8d5";
+            "activityBar.foreground": "#ffffffb7";
+            "activityBar.border": "#2b1141";
+            "activityBar.inactiveForeground": "#2d1252";      
+            "tab.border": "#6a676b3a";
+            "tab.hoverBackground": "#7774742f";
+            "tab.activeBorder": "#302f2f34";
+            "tab.activeBorderTop": "#4c275e0a";  
+            "tab.activeBackground": "#6c23a8d5";
+            "list.focusOutline": "#302e30";
+            "focusBorder": "#25252569";         
+    }
+            
+  
